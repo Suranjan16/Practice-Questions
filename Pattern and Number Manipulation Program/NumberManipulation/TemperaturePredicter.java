@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class TemperaturePredicter {
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner sc = new Scanner(System.in);
         double b = sc.nextDouble();
         broadcast(b);
