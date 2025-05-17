@@ -20,7 +20,7 @@ public class ArrayAvarage {
             }
             
             double arrayAvarage = sum / size;
-            System.out.println("Array; " + Arrays.toString(arr));
+            System.out.println("Array: " + Arrays.toString(arr));
             System.out.println("Avarage of the array is: " + arrayAvarage);
         }
     }
