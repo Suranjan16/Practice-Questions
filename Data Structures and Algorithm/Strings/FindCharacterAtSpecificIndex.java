@@ -8,5 +8,6 @@ public class FindCharacterAtSpecificIndex {
         int b = sc.nextInt();
 
         System.out.println("Character at position " + b + " is: " + a.charAt(b-1));
+        sc.close();
     }
 }

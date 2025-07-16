@@ -6,5 +6,6 @@ public class DecimalFormat {
         Scanner sc = new Scanner(System.in);
         float num = sc.nextFloat();
         System.out.println(String.format("My number upto 2 decimal point is: %.2f", num));
+        sc.close();
     }
 }

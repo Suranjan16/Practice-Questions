@@ -16,5 +16,6 @@ public class CheckIfAStringIsPalindrome {
         } else {
             System.out.println("Not Palindrome");
         }
+        sc.close();
     }
 }

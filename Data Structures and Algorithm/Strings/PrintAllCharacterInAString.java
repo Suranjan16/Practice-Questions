@@ -11,5 +11,6 @@ public class PrintAllCharacterInAString {
         for(char ch: b) {
             System.out.println(ch);
         }
+        sc.close();
     }
 }

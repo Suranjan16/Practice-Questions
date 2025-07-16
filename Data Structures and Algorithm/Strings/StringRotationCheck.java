@@ -16,5 +16,6 @@ public class StringRotationCheck {
         } else {
             System.out.println("The String \'" + b + "\' is not rotation of \'" + a + "\'");
         }
+        sc.close();
     }
 }

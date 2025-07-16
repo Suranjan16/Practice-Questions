@@ -13,5 +13,6 @@ public class AppendStringUsingStringBuffer {
         sb.append(a).append(b).append(c);
 
         System.out.println("Concatenated String : "  + sb);
+        sc.close();
     }
 }

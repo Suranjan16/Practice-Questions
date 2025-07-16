@@ -11,5 +11,6 @@ public class IndexOfAndReplace {
         } else {
             System.out.println("Character not found!");
         }
+        sc.close();
     }
 }

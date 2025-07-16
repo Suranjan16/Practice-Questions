@@ -15,5 +15,6 @@ public class SplitAndJoin {
 
         String joined = String.join(b, a1);
         System.out.println("Joined String: " + joined);
+        sc.close();
     }
 }

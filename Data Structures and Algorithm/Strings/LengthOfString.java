@@ -8,5 +8,6 @@ public class LengthOfString {
         System.out.println("Enter a String: ");
         String name = sc.nextLine();
         System.out.println("The length of " + name + " is: " + name.length());
+        sc.close();
     }
 }

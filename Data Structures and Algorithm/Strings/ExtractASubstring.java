@@ -11,5 +11,6 @@ public class ExtractASubstring {
 
         String b = a.substring(start, end);
         System.out.println(b);
+        sc.close();
     }
 }

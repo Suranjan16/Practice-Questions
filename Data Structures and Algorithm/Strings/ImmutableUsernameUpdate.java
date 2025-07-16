@@ -10,5 +10,6 @@ public class ImmutableUsernameUpdate {
         String c =  a + b;
         System.out.println("Original:" + a);
         System.out.println("New String: " + c);
+        sc.close();
     }
 }

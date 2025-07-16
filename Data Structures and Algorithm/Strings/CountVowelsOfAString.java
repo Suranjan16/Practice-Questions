@@ -14,5 +14,6 @@ public class CountVowelsOfAString {
             }
         }
         System.out.println("Vowel count of the string is: " + count);
+        sc.close();
     }
 }

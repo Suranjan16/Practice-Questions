@@ -13,5 +13,6 @@ public class CapitalizedFirstLetterOfEachWord {
         }
 
         System.out.print(sb.toString().trim());
+        sc.close();
     }
 }

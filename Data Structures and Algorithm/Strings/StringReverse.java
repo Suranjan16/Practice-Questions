@@ -10,5 +10,6 @@ public class StringReverse {
             b = b + arr[i];
         }
         System.out.println("Reversed String: " + b);
+        sc.close();
     }
 }

@@ -13,5 +13,6 @@ public class StringContainsSubstring {
         } else {
              System.out.println(a + " is not contain " + b);
         }
+        sc.close();
     }
 }

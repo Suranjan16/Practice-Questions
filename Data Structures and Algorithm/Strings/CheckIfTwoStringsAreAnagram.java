@@ -23,5 +23,6 @@ public class CheckIfTwoStringsAreAnagram {
         } else {
             System.out.println(a + " and " + b + " are not anagram.");
         }
+        sc.close();
     }
 }

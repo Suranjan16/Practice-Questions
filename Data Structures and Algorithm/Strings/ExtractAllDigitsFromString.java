@@ -7,5 +7,6 @@ public class ExtractAllDigitsFromString {
         String a = sc.nextLine();
         a = a.replaceAll("\\D", "");
         System.out.println("Extracted Digits: " + a);
+        sc.close();
     }
 }

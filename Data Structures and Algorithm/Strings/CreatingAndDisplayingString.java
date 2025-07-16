@@ -14,5 +14,6 @@ public class CreatingAndDisplayingString {
 
         System.out.println("Is b = c? :" + (b == c));
         System.out.println("Is b.equals(c)? :" + b.equals(c));
+        sc.close();
     }
 }

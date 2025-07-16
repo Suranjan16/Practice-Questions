@@ -16,5 +16,6 @@ public class OccuranceOfCharacterInAString {
             }
         }
         System.out.println(ch + ": " + count);
+        sc.close();
     }
 }

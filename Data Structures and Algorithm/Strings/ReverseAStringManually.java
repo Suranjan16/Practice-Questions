@@ -11,5 +11,6 @@ public class ReverseAStringManually {
             a1 += arr[i];
         }
         System.out.println(a1);
+        sc.close();
     }
 }

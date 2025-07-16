@@ -11,5 +11,6 @@ public class StartsWithEndWith {
         System.out.println("Is the string empty? "  + a.isEmpty());
         String regex = "[a-zA-Z]+";
         System.out.println("Is the string contains only letters? " + a.matches(regex));
+        sc.close();
     }
 }

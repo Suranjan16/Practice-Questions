@@ -8,5 +8,6 @@ public class StringFormatting {
         int age = sc.nextInt();
 
         System.out.println(String.format("My name is %s , i am %d years old.", name, age));
+        sc.close();
     }
 }
