@@ -22,6 +22,7 @@ public class ThirdHighestUsingBubbleSort {
              }
         }
         System.out.println("Less than 3 distinct elements.");
+        sc.close();
     }
     //Bubble sort in descending order
     public static void bubbleSort(int[]arr) {
