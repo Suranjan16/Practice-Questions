@@ -18,4 +18,3 @@ public class StaticBlock {
             StaticBlock.fun();
         }
     }
-
